@@ -13,7 +13,7 @@
     <div class="bg-white p-8 rounded-lg shadow-lg max-w-md text-center">
       <h1 class="text-3xl font-semibold text-gray-800">Biometric User Interface</h1>
       <p class="mt-4 text-gray-600">
-        Our biometric system streamlines attendance, ensuring secure and fast user authentication. 
+         biometric system streamlines attendance, ensuring secure and fast user authentication. 
         Download the latest version of the app below.
       </p>
   
